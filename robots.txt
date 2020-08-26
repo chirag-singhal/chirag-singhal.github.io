@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://chirag-singhal.github.io/sitemap.xml
